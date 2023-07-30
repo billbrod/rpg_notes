@@ -48,9 +48,7 @@ def find_next_header(header_lvls, idx):
 
 
 @click.command()
-@click.option("--action", help="Whether to just strip :dm: from the header text ('remove tag') or to hide the corresponding section and all its subsections ('hide section')",
-              default='hide section', show_default=True)
-def main(action='hide section'):
+def main():
 
     """Parse json to remove :dm: tag and send back to stdout
 
@@ -59,8 +57,6 @@ def main(action='hide section'):
     > pandoc file.md -t json | python filter_dm.py | pandoc -f json -t gfm -o filtered.md
 
     """
-    if action not in ['hide section', 'remove tag']:
-        raise ValueError(f"action must be either 'hide section' or 'remove tag', but got {action}")
     original = json.load(sys.stdin)
     header_lvls = find_header_lvls(original)
     dm_tags = find_dm_tags(original)

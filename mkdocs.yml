@@ -1,0 +1,17 @@
+site_name: RPG Notes
+repo_url: https://github.com/billbrod/rpg_notes
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'light blue'
+    features:
+      - navigation.tabs
+plugins:
+    - search
+    - literate-nav:
+          nav_file: docs/SUMMARY.md     # navigation file for literate navigation
+    - section-index                    # plugin for creating section index
+
+nav:
+    - Home: index.md

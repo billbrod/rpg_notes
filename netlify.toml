@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/dm/*"
+  to = "/dm/:splat"
+  force = true
+  status = 200
+  conditions = {Role = ["dm"]}

@@ -9,6 +9,42 @@ be edited in the browser or locally.
 
 (These are my notes as to how I got this set up, not necessary for anyone else)
 
+### DM Notes
+
+The DM notes live in a separate, private repo, connected as a submodule.
+Following the instructions
+[here](https://ehlers.berlin/blog/private-submodules-in-github-ci/):
+- The idea is to create a new pair of keys: `ssh-keygen -t rsa -f key`
+- Make the public key the deploy key for the private repo: in the private repo,
+  go to `Settings > Deploy keys`, and copy the public key there.
+- Add the private key as a secret key on the public repo: in the public repo, go
+  to `Settings > Secrets > Actions` and add the private key.
+- Then the following step should allow the deploy job in the public repo to pull
+  in the private one:
+
+  ```yml
+  - name: Trigger release build
+    env:
+      SSH_KEY_FOR_SUBMODULE: ${{secrets.SSH_KEY_FOR_SUBMODULE}}
+    run: |
+      mkdir $HOME/.ssh && echo "$SSH_KEY_FOR_SUBMODULE" > $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa && git submodule update --init --recursive
+ ```
+
+### DM note filtering
+
+The python script `filter_dm.py` will filter out any sections with the tag
+`:dm:` in the header and is used before the build action. It operates on
+stdin/stdout, so should be used like so:
+
+``` sh
+pandoc file.md -t json | python filter_dm.py | pandoc -f json -t gfm -o filtered.md
+```
+
+If a file exists with the same name in the public `docs/` directory, combine
+them gracefully, so they're merged rather than one overwriting the other.
+
+### Netlify
+
 We deploy to netlify so that we can hide the DM-only notes behind a login. The
 website is deployed to Netlify using the action `.github/workflows/deploy.yml`.
 We use the Netlify Identity widget to handle logins, which required the

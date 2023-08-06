@@ -1,0 +1,4 @@
+[submodule "dm_notes"]
+	path = dm_notes
+	url = git@github.com:billbrod/rpg_dm_notes.git
+	branch = main

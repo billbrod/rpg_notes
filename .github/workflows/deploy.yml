@@ -11,6 +11,12 @@ jobs:
       # Checkout repo
       - uses: actions/checkout@v2
 
+      - name: Get the private repo
+        env:
+          SSH_KEY_FOR_SUBMODULE: ${{ secrets.RPG_DM_NOTES_DEPLOYMENT }}
+        run: |
+          mkdir $HOME/.ssh && echo "$SSH_KEY_FOR_SUBMODULE" > $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa && git submodule update --init --recursive
+
       - name: Set up Python
         uses: actions/setup-python@v4
 

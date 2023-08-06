@@ -2,7 +2,8 @@
 
 Try keeping notes in markdown so we can build them into a website.
 
-The notes are found in the `docs/` folder, and are all markdown files.
+The notes are found in the `docs/` folder, and are all markdown files. They can
+be edited in the browser or locally.
 
 ## Development
 
@@ -18,6 +19,8 @@ following steps:
   [here](https://www.netlify.com/blog/2018/01/23/getting-started-with-jwt-and-identity/),
   adding extra javascript and overriding the announce block to add the actual
   login button itself.
+- set registration to invite-only under `Site configuration > Identity >
+  Registration`.
   
 Then, to add users:
 - Go to `Integrations > Identity`, to invite users and set their role

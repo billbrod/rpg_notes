@@ -46,4 +46,5 @@ nav:
     - Reference: reference.md
     - Resources: resources.md
     - Tags: tags.md
-    - DM Notes: dm.md
+    - DM Notes:
+        - Session notes: dm/session_notes.md

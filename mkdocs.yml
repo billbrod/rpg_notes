@@ -3,11 +3,12 @@ repo_url: https://github.com/billbrod/rpg_notes
 
 theme:
   name: 'material'
+  features:
+   - navigation.expand
+   - navigation.top
   custom_dir: overrides
   palette:
     primary: 'indigo'
-    features:
-      - navigation.tabs
 plugins:
     - tags:
         tags_file: tags.md
@@ -15,6 +16,7 @@ plugins:
     - literate-nav:
           nav_file: docs/SUMMARY.md     # navigation file for literate navigation
     - section-index                    # plugin for creating section index
+    - glightbox
 
 markdown_extensions:
   - tables

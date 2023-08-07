@@ -40,8 +40,7 @@ nav:
         - Atka: characters/atka.md
         - Bao: characters/bao.md
         - Zo: characters/zo.md
-    - Session notes:
-        - Session 1: session_notes/01.md
+    - Session notes: session_notes/
     - Maps and locations: locations.md
     - Reference: reference.md
     - Resources: resources.md

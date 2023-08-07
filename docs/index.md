@@ -1,4 +1,1 @@
-# RPG Notes
-
-Home for my RPG notes
-
+# Avatar Legends

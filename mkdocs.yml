@@ -9,15 +9,32 @@ theme:
     features:
       - navigation.tabs
 plugins:
+    - tags:
+        tags_file: tags.md
     - search
     - literate-nav:
           nav_file: docs/SUMMARY.md     # navigation file for literate navigation
     - section-index                    # plugin for creating section index
 
+markdown_extensions:
+  - tables
+  - attr_list
+  - pymdownx.betterem
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 extra_javascript:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
+extra_css:
+  - stylesheets/extra.css
 
 nav:
     - Home: index.md
+    - Map: locations.md
+    - Characters:
+        - Zo: characters/zo.md
+        - Atka: characters/atka.md
+    - Tags: tags.md
     - Resources: resources.md
     - DM Notes: dm.md

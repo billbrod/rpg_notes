@@ -64,12 +64,6 @@ What does your squad value? (choose 2):
 Despite being the leader, you chose to travel with your new companions for the time being, until you’ve achieved this group’s purpose. Choose where your team is without you:
 - fractured, doing the same thing but less effectively
 
-protecting the team’s home while you are away; protecting a powerful
-figure; temporarily disbanded or exiled; training and preparing for something
-important; journeying and doing good works throughout your scope;
-escorting important travelers; stationed at an important location; performing
-traditional or ceremonial duties
-
 Within any group, you serve a role both subtle and overt, sometimes leading the team, sometimes helping it glue itself together. You earn Team through your leadership style, and you spend Team through your support style. At the end of each session, you may change 1 style of leadership and 1 style of support.
 
 Choose 2 styles of leadership. **Earn 1-Team** when...

@@ -58,12 +58,7 @@ Name your lodestar (choose a PC to start): Bao
 
 You can shift your lodestar to someone new when they **guide and comfort** you and you open up to them, or when you **guide and comfort** them and they open up to you. If you do choose to shift your lodestar, clear a condition.
 
-When you **shut down someone vulnerable to harsh words or icy silence**,
-shift your balance toward Results and roll with Results. On a hit, they mark a
-condition and you may clear the same condition. On a 10+, they also cannot
-shift your balance or **call you out** for the rest of the scene. On a miss, they
-have exactly the right retort; mark a condition and they shift your balance.
-You cannot use this on your lodestar.
+When you **shut down someone vulnerable to harsh words or icy silence**, shift your balance toward Results and roll with Results. On a hit, they mark a condition and you may clear the same condition. On a 10+, they also cannot shift your balance or **call you out** for the rest of the scene. On a miss, they have exactly the right retort; mark a condition and they shift your balance. You cannot use this on your lodestar.
 
 When your lodestar **shifts your balance** or **calls you out**, you cannot resist it. Treat an NPC lodestar calling you out as if you rolled a 10+, and a PC lodestar calling you out as if they rolled a 10+.
 
@@ -108,9 +103,10 @@ Take +1 to Passion (max +3)
 - had an "everything I've ever learned is wrong" moment, but brother didn't listen ("this is what we've trained for our whole lives") and deploys, while Zo runs away
 - learned pragmatism from her father
 - tattoo is a symbol of her burden and family, and the things she's believed that aren't true
-  - wears military boots
-  - has a fortune teller (made from paper) with Moroccan-style tea painting on it, shows the beauty that can be made with fire
+    - wears military boots
+    - has a fortune teller (made from paper) with Moroccan-style tea painting on it, shows the beauty that can be made with fire
 - she's desperate for something right to believe in and a partner, bereft, grieving the sense of knowing what's right/true
 - Fire Nation military is basically all Navy
 - Zo not in touch with family right now
 - how disguised is she? hair is short and shaggy (cut off ponytail), wearing clothes she stole, carries self sneakily
+- at beginning of play, others don't know she's a firebender

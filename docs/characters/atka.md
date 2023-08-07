@@ -96,8 +96,8 @@ Your upbringing expanded your horizons, skillsets, and contacts. Choose another 
 
 - 13 years old
 - family has tradition of spirit-bending (p216 in book), they're an important religious order, Order of the Blue Lotus, at the Northern Water Tribe capital (Agna Qel'a)
-  - religious focus, blocked by tradition
-  - above worldly concerns, trying to keep the Northern Water Tribe out of the war
+    - religious focus, blocked by tradition
+    - above worldly concerns, trying to keep the Northern Water Tribe out of the war
 - growing up, Atka had peers, but led a rarefied life, chafed (slightly) against boundaries, is curious
 - still in touch with family, traveling with support of his family, which has an established tradition of exploring
 - fighting style: "precise stick and balls", has ice prayer beads and staff, staff is like a bident, with a tuning fork at the top, tuned to differnet notes for differnt people, represents the harmony of the two worlds. style focuses on precision and economy of movement
@@ -105,8 +105,8 @@ Your upbringing expanded your horizons, skillsets, and contacts. Choose another 
 - Ukyuk, leader of the order, is adamant that the Northern Water Tribte stay out of war, doesn't like others challenging his authority or asking questions, cares about control
 - Sister Waaseyaa: prodigy, perky, rebellious, early 20s. close with Atka, "fun teacher", helps him explore what balance means
 - Atka senses things are imbalanced, is uneasy and curious. is traveling, scouting (for imbalance?) by himself, as right of passage.
-  - spiritual connection is very important (tends to ignore material aspects / people's ability to survive)
-  - order focused on spirit world (over balance or human)
+    - spiritual connection is very important (tends to ignore material aspects / people's ability to survive)
+    - order focused on spirit world (over balance or human)
 - parents also member of the Order, but Atka largely raised by non-parents in Order
 - outside of the Northern Water Tribe, people know the Order is a spirital power with temporal influence, but unclear how exactly
     - the Fire Nation was spying on the Order, in favor of their continuing hold on power

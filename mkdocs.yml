@@ -20,21 +20,28 @@ markdown_extensions:
   - tables
   - attr_list
   - pymdownx.betterem
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
   - https://identity.netlify.com/v1/netlify-identity-widget.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 extra_css:
   - stylesheets/extra.css
 
 nav:
     - Home: index.md
-    - Map: locations.md
     - Characters:
-        - Zo: characters/zo.md
         - Atka: characters/atka.md
-    - Tags: tags.md
+        - Bao: characters/bao.md
+        - Zo: characters/zo.md
+    - Session notes:
+        - Session 1: session_notes/01.md
+    - Maps and locations: locations.md
+    - Reference: reference.md
     - Resources: resources.md
+    - Tags: tags.md
     - DM Notes: dm.md

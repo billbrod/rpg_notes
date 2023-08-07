@@ -1,6 +1,6 @@
 # Avatar Legends
 
-From campaign creation worksheet:
+## Campaign creation worksheet
 
 - Hundred year war era, ~20 years into it
     - unclear if air nomad genocide has happened, but even if so, people don't really know about it
@@ -14,7 +14,7 @@ From campaign creation worksheet:
     - White Lotus
 - **Focus**: protect culture of people invaded by Fire Nation
 
-Inciting incident:
+## Inciting incident
 
 - in Jiangbu, a small port in the Western Earth Kingdom. not currently
   under control of Fire Nation, but they're ... putting out probes

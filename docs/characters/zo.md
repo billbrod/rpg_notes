@@ -87,10 +87,11 @@ Take +1 to Passion (max +3)
 
 ## Techniques
 
+<!--- to change these to "filled in", remove the `{ .unchecked }` bit at the end -->
 | Name         | Approach          | Level        | Text                                                                                                                                                                                                                                        |
 |--------------|-------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pinpoint Aim | Defend & Maneuver | Mastered (3) | Take the time you need to line up a perfect shot; become Prepared. In the next exchange, if you advance and attack, roll with Focus or Passion, your choice. If you use Strike, you do not have to mark fatigue to choose what you inflict. |
-| Fire Stream | Defend & Maneuver | Learned (1) | Pour fire upon a target. Mark 1-fatigue to inflict Impaired on them. Mark 3-fatigue to inflict Doomed and Impaired. Mark 5-fatigue to inflict Trapped, Doomed, and Impaired. |
+| Pinpoint Aim | Defend & Maneuver |  :material-check-circle: :material-check-circle: :material-check-circle: | Take the time you need to line up a perfect shot; become Prepared. In the next exchange, if you advance and attack, roll with Focus or Passion, your choice. If you use Strike, you do not have to mark fatigue to choose what you inflict. |
+| Fire Stream | Defend & Maneuver |  :material-check-circle: :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked } | Pour fire upon a target. Mark 1-fatigue to inflict Impaired on them. Mark 3-fatigue to inflict Doomed and Impaired. Mark 5-fatigue to inflict Trapped, Doomed, and Impaired. |
 
 ## Character creation notes
 

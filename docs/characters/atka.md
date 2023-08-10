@@ -89,8 +89,8 @@ Your upbringing expanded your horizons, skillsets, and contacts. Choose another 
 
 | Name       | Approach         | Level        | Text                                                                                                                                     |
 |------------|------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Break      | Evade & Observe  | Mastered (3) | Target a foe’s vulnerable equipment; render it useless or broken --- possibly inflicting or overcoming a fictionally appropriate status. |
-| Ice Prison | Advance & Attack | Learned (1)  | Aggressively wrap a foe in ice. Mark 2-fatigue to inflict *Trapped* on a foe standing in water or on ice. |
+| Break      | Evade & Observe  | :material-check-circle: :material-check-circle: :material-check-circle: | Target a foe’s vulnerable equipment; render it useless or broken --- possibly inflicting or overcoming a fictionally appropriate status. |
+| Ice Prison | Advance & Attack | :material-check-circle: :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked } | Aggressively wrap a foe in ice. Mark 2-fatigue to inflict *Trapped* on a foe standing in water or on ice. |
 
 ## Character creation notes
 

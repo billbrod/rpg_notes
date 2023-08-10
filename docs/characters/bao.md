@@ -86,10 +86,11 @@ When you **lose your balance** in a battle, instead of choosing one of the norma
 - Provoke an opponent, shifting their balance twice
 ## Techniques
 
+<!--- to change these to "filled in", remove the `{ .unchecked }` bit at the end -->
 | Name                  | Approach        | Level        | Text |
 |-----------------------|-----------------|--------------|------|
-| Slide Around the Blow | Evade & Observe | Mastered (3) |  You move perfectly, slipping past strikes and demanding an opponent’s attention; a foe you are engaged with must remain engaged with you and can only use techniques against you in the next exchange. If no foe is engaged with you, you may slip through the fight to engage a new foe (no foe may mark fatigue to stop you).    |
-| Eat Dirt              | Evade & Observe | Learned (1)  | Even the smallest pebble can cause a gatorphant to stumble. Cause a foe to lose their footing. Your target is *Impaired* and unable to choose **defend and maneuver** in the next exchange.     |
+| Slide Around the Blow | Evade & Observe |  :material-check-circle: :material-check-circle: :material-check-circle: |  You move perfectly, slipping past strikes and demanding an opponent’s attention; a foe you are engaged with must remain engaged with you and can only use techniques against you in the next exchange. If no foe is engaged with you, you may slip through the fight to engage a new foe (no foe may mark fatigue to stop you).    |
+| Eat Dirt              | Evade & Observe |  :material-check-circle: :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked } | Even the smallest pebble can cause a gatorphant to stumble. Cause a foe to lose their footing. Your target is *Impaired* and unable to choose **defend and maneuver** in the next exchange.     |
 
 ## Character creation notes
 

@@ -5,6 +5,25 @@ Try keeping notes in markdown so we can build them into a website.
 The notes are found in the `docs/` folder, and are all markdown files. They can
 be edited in the browser or locally.
 
+## How to edit
+
+All of the notes rendered on the website live in the `docs/` folder. These are
+all written in markdown, which is a light markup language. See
+[here](https://www.markdownguide.org/cheat-sheet) for an overview of the syntax.
+You can edit the files directly in your browser, which is probably the most
+straightforward, or locally, in which case you'll have to set up git.
+
+Once you edit any file, you'll have to commit it (for a little bit more about
+git and what the terminology means, see
+[here](https://neuroplausible.com/github)). Doing so will trigger the website to
+rebuild, the progress of which can be seen on the [actions
+tab](https://github.com/billbrod/rpg_notes/actions). After about 2 minutes, the
+website will be finished any changes should be live.
+
+To add inline images, upload them to the `docs/images/` folder and then include
+a link like so: `![Alternative text](./images/my_awesome_image.png "Text that
+appears when hovering")`.
+
 ## Development
 
 (These are my notes as to how I got this set up, not necessary for anyone else)

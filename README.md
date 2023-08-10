@@ -24,6 +24,14 @@ To add inline images, upload them to the `docs/images/` folder and then include
 a link like so: `![Alternative text](./images/my_awesome_image.png "Text that
 appears when hovering")`.
 
+The website is built using [mkdocs](https://www.mkdocs.org/). If you add a new
+page, you'll need to add it to the `nav:` section of the `mkdocs.yml` file.
+
+We use the [mkdocs
+material](https://squidfunk.github.io/mkdocs-material/reference/) theme, which
+gives all sorts of extra features like better tables and admonitions. Check out
+that link for more details!
+
 ## Development
 
 (These are my notes as to how I got this set up, not necessary for anyone else)

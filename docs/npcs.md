@@ -8,7 +8,6 @@ former air nomad, currently running tavern (Yating's place, doesn't have a sign 
 - Location: Jiangbu
 - woman, 60s, always wears long sleeves and pants to hide tattoos
 - airbender
-- 
 
 ## Sergeant Hanako 
 
@@ -39,7 +38,6 @@ close with Atka, "fun teacher", helps him explore what balance means
 
 member of Bao's group, his father's on the council of 5, knows about war, takes a wait and see approach, bit of a de facto leader of group (because bossy, knows things, is self-important), looks down on Bao
 
-- Major
 - Characters: Bao
 - Location: Omashu
 - teenage boy
@@ -48,7 +46,6 @@ member of Bao's group, his father's on the council of 5, knows about war, takes 
 
 father of Li Duanmu, General on Council of 5, often in Ba Sing Se for work
 
-- Master
 - Characters: Bao
 - Location: Ba Sing Se, Omashu
 - man, early 40s
@@ -57,7 +54,6 @@ father of Li Duanmu, General on Council of 5, often in Ba Sing Se for work
 
 Bao's best friend, bullied a lot, currently disappeared in Omashu after a job there
 
-- Major
 - Characters: Bao
 - Location: Omashu
 - teenage boy
@@ -66,7 +62,6 @@ Bao's best friend, bullied a lot, currently disappeared in Omashu after a job th
 
 Bao's mother, overprotective, scared for daughter
 
-- Major 
 - Characters: Bao
 - Location: Omashu
 - woman, mid 40s
@@ -75,16 +70,14 @@ Bao's mother, overprotective, scared for daughter
 
 Zo's father, in Fire Nation Navy
 
-- Master 
 - Characters: Zo
 - Location: Torch Town
 - man, late 40s
 
 ## Corporal Ganzaya 
 
-Zo's twin brother, currently in navy
+Zo's twin brother, currently in Fire Nation Navy
 
-- Major
 - Characters: Zo
 - Location: Traveling, Torch Town
 - teenage boy

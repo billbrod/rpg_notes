@@ -87,6 +87,7 @@ Your upbringing expanded your horizons, skillsets, and contacts. Choose another 
 
 ## Techniques
 
+<!--- to change these to "filled in", remove the `{ .unchecked }` bit at the end -->
 | Name       | Approach         | Level        | Text                                                                                                                                     |
 |------------|------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Break      | Evade & Observe  | :material-check-circle: :material-check-circle: :material-check-circle: | Target a foe’s vulnerable equipment; render it useless or broken --- possibly inflicting or overcoming a fictionally appropriate status. |

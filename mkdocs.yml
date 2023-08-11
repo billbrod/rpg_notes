@@ -1,11 +1,13 @@
 site_name: RPG Notes
 repo_url: https://github.com/billbrod/rpg_notes
+edit_uri: edit/main/docs/
 
 theme:
   name: 'material'
   features:
    - navigation.expand
    - navigation.top
+   - content.action.edit
   custom_dir: overrides
   palette:
     primary: 'indigo'

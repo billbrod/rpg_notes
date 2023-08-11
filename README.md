@@ -13,6 +13,9 @@ all written in markdown, which is a light markup language. See
 You can edit the files directly in your browser, which is probably the most
 straightforward, or locally, in which case you'll have to set up git.
 
+For any file, a little "edit this page" button will appear next to the title.
+Click on it to start editing it on github!
+
 Once you edit any file, you'll have to commit it (for a little bit more about
 git and what the terminology means, see
 [here](https://neuroplausible.com/github)). Doing so will trigger the website to

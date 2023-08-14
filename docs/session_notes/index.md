@@ -1,4 +1,12 @@
 # Session notes
 
-This section contains all the session notes.
+This section contains all the session notes:
 
+- [Session 1](01.md)
+- [Session 2](02.md)
+
+## Running jokes
+
+- "peepants"
+- "surprise bending"
+- "Ass-op's Fables"

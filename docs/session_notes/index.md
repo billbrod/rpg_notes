@@ -8,5 +8,5 @@ This section contains all the session notes:
 ## Running jokes
 
 - "peepants"
-- "surprise bending"
+- "we're using the element of surprise -- we're surprise bending!"
 - "Ass-op's Fables"

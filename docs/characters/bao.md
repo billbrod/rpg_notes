@@ -20,7 +20,7 @@ tags:
     - creativity: 1
     - focus: 0
     - harmony: 2
-    - passion: -1
+    - passion: 0
 - balance:
     - principles: support vs. leadership
     - center: 0
@@ -42,8 +42,8 @@ At the end of each session, answer this question along with the other growth que
 
 <!--- to change these to "filled in", remove the `{ .unchecked }` bit at the end -->
 - Take a new move from your playbook :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
-- Take a new move from another playbook :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
-- Raise a stat by +1 (maximum of +2 in any given stat)
+- Take a new move from another playbook :material-check-circle: :material-check-circle:{ .unchecked }
+- Raise a stat by +1 (maximum of +2 in any given stat): passion
 - Shift your center one step :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
 - Unlock your Moment of Balance :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
 
@@ -81,9 +81,15 @@ When you **live up to your principle** while you have 3+ conditions marked, igno
 ### Taking Care of Business
 
 When you **lose your balance** in a battle, instead of choosing one of the normal options, you may instead sacrifice yourself for your companions. If you do, your companions have a chance to get away without issue, and you are taken out (and possibly captured). You also choose 1:
+
 - Leave a clue your companions can follow
 - Throw your companions one vulnerable object
 - Provoke an opponent, shifting their balance twice
+
+### Best Friend (Bold)
+
+Your best friend is small, fuzzy, and dependable. Unlike all your other relationships, this one is simple and true. You can understand and communicate with your small companion and -- although they may give you a hard time now and again -- they are always there when you need them most. Whenever your pal could help you **push your luck**, mark fatigue to roll with Creativity instead of Passion. If your pet ever gets hurt, mark a condition.
+
 ## Techniques
 
 <!--- to change these to "filled in", remove the `{ .unchecked }` bit at the end -->

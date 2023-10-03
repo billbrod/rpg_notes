@@ -17,7 +17,7 @@ tags:
 - look: Corebook pg. 202
 - fighting style: precise ice balls
 - stats:
-    - creativity: 1
+    - creativity: 2
     - focus: 2
     - harmony: -1
     - passion: 0
@@ -42,8 +42,8 @@ At the end of each session, answer this question along with the other growth que
 
 <!--- to change these to "filled in", remove the `{ .unchecked }` bit at the end -->
 - Take a new move from your playbook :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
-- Take a new move from another playbook :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
-- Raise a stat by +1 (maximum of +2 in any given stat)
+- Take a new move from another playbook :material-check-circle: :material-check-circle:{ .unchecked }
+- Raise a stat by +1 (maximum of +2 in any given stat): creativity, 
 - Shift your center one step :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
 - Unlock your Moment of Balance :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
 
@@ -84,6 +84,17 @@ When you behave in a way that shocks and unsettles people from one of your backg
 ### Worldly Knowledge
 
 Your upbringing expanded your horizons, skillsets, and contacts. Choose another training and another background.
+
+### Judging a Rival (Prodigy)
+
+When you size someone up, roll with Focus. On a 7-9, ask one. On a 10+, ask two.
+
+- what are your weaknesses / strengths?
+- how can I show you dominance / submission?
+- what do you intend to do next?
+- what do you wish I’d do right now?
+
+On a miss, they notice you watching them; they may ask you 1 question from the list.
 
 ## Techniques
 

@@ -42,11 +42,11 @@ questions:
 ### Growth Advancements:
 
 <!--- to change these to "filled in", remove the `{ .unchecked }` bit at the end -->
-- Take a new move from your playbook :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
+- Take a new move from your playbook :material-check-circle: :material-check-circle:{ .unchecked }
 - Take a new move from another playbook :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
 - Raise a stat by +1 (maximum of +2 in any given stat)
 - Shift your center one step :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
-- Unlock your Moment of Balance :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
+- Unlock your Moment of Balance :material-check-circle: :material-check-circle:{ .unchecked }
 
 ## Moves
 
@@ -84,6 +84,17 @@ Anyone who lies or stonewalls marks 2-fatigue. On a miss, your attack leaves you
 ### Driven by Justice
 
 Take +1 to Passion (max +3)
+
+### I Don't Hate You
+
+When you **guide and comfort** someone in an awkward, understated, or idiosyncratic fashion, roll with Passion instead of Harmony if you mark Insecure or Insecure is already marked.
+
+## Moment of Balance
+
+- Unlocked: :material-check-circle: :material-check-circle:{ .unchecked }
+- Used: :material-check-circle:{ .unchecked } :material-check-circle:{ .unchecked }
+
+You've held true to a core of conviction even while getting your hands dirty to do what you deemed necessary. But balance means appreciating that other people are just as complex as you are, not merely obstacles or pawns. Tell the GM how you solve an intractable problem or calm a terrible conflict by relating to dangerous people on a human level.
 
 ## Techniques
 

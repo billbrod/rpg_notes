@@ -6,6 +6,7 @@ This section contains all the session notes:
 - [Session 2](02.md)
 - [Session 3](03.md)
 - [Session 4](04.md)
+- [Session 5](05.md)
 
 ## Running jokes
 

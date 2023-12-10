@@ -2,7 +2,7 @@
 
 ## Yating 
 
-former air nomad, currently running tavern (Yating's place, doesn't have a sign but well-known, "best bao in this whole peninsula", especially good at vegetables because she's former air nomad) in Jiangbu
+former air nomad, currently running tavern (Yating's place, doesn't have a sign but well-known, "best bao in this whole peninsula", especially good at vegetables because she's former air nomad) in Jiangbu. was captured by Hanako as part of his attempt to learn more about Weishan, then freed by the party. Zo tried to convince her to help, but Yating just fled, said "some day you'll realize that sometimes, nothing can be done, and you just have to move on"
 
 - Characters: Zo, Atka, Bao
 - Location: last seen running away from Jiangbu / Mt. Weishan after party freed her from capture by Hanako
@@ -11,10 +11,10 @@ former air nomad, currently running tavern (Yating's place, doesn't have a sign 
 
 ## Sergeant Hanako 
 
-leader of Fire Nation advance force, burned down Yating's tavern. knows Zo well, cares about her
+leader of Fire Nation advance force, burned down Yating's tavern. knows Zo well, cares about her. Tried to learn more about Weishan, protective spirit of Jiangbu, in attempt to conquer the town. Party defeated him and his mix of scouts / local thugs, froze them all and sent them bobbing down the river, out to sea.
 
 - Characters: Zo
-- Location: Jiangbu
+- Location: last seen floating down the river near Jiangbu in an icecube
 - man, late 40s
 - lightning bender
 

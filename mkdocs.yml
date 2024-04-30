@@ -48,9 +48,4 @@ nav:
     - Reference: reference.md
     - Resources: resources.md
     - Tags: tags.md
-    - DM Notes:
-        - Session notes: dm/session_notes.md
-        - NPCs: dm/npcs.md
-        - Guidance: dm/guidance.md
-        - Ongoing: dm/ongoing_threads.md
-        - Reference: dm/reference.md
+    - DM Notes: dm/index.html

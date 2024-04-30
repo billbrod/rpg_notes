@@ -30,9 +30,14 @@ jobs:
           SSH_KEY_FOR_SUBMODULE: ${{ secrets.RPG_DM_NOTES_DEPLOYMENT }}
         run: |
           mkdir $HOME/.ssh && echo "$SSH_KEY_FOR_SUBMODULE" > $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa && git submodule update --init --recursive
-          cp -r dm_notes/docs/ docs/dm/
 
-      - name: Move secret recipes
+      - name: Check secret recipes for tags
+        run: ./dm_notes/scripts/check_head.sh
+
+      - name: Check secret index for secret recipes
+        run: ./dm_notes/scripts/check_index.sh
+
+      - name: Move DM info
         env:
           SECRET_DM_DIR: ${{ secrets.PASSWORD_HASH }}
         run: cp -r dm_notes/docs/ docs/dm/"$SECRET_DM_DIR"

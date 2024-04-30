@@ -8,7 +8,6 @@ theme:
    - navigation.expand
    - navigation.top
    - content.action.edit
-  custom_dir: overrides
   palette:
     primary: 'indigo'
 plugins:
@@ -30,7 +29,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
-  - https://identity.netlify.com/v1/netlify-identity-widget.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
 extra_css:
